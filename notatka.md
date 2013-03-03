@@ -63,8 +63,11 @@ h3 {padding 20px auot 0px auto;}    dotyczy nagłowka 3
 
 * color: red;
 * background-color: 
-* 
- # Trello
+ 
+
+# Trello
+
+Aplikacja do pracy grupowej
 
 trello.com
 

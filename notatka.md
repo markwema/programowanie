@@ -19,7 +19,7 @@ www.az.pl
 2. Jeśli nie, to należy wygenerować klucz publiczny ssh przez polecenie z konsoli na swoim kompie ssh-keygen
 3. Sprawdzamy poleceniem ls~/.ssh/ czy zostały wygenerowne klucze w tym katalogu
 4. Musi być klucz publiczny id_rsa.pub
-5. Wyświetlamy np. cat
+5. Wyświetlamy np. cat id_rsa.pub, kopiujemy i wklejamy do pola klucz (SSH)
 6. 
 7. 
 8. 
@@ -30,5 +30,7 @@ www.az.pl
 ###Kurs Sublime Text
 * Strona http://www.sublimetext.com/
 * Ściągamy plik na odpowiedni system (Linux 32 bit)
- ##Zakładanie bloga
+ 
+##Zakładanie bloga
+
 Na git wybrać plik, który będzie na blogu, wejść w setting, automatic page

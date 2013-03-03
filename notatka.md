@@ -34,3 +34,18 @@ www.az.pl
 ##Zakładanie bloga
 
 Na git wybrać plik, który będzie na blogu, wejść w setting, automatic page
+
+
+##CSS3
+
+linki
+http://dabblet.com/
+ustalanie koloru:
+color: #klm;
+k-
+l-
+m-
+
+font-size: 21px;   lub font-size: 2em;
+* color: red;
+* background-color: 

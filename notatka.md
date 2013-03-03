@@ -40,6 +40,7 @@ Na git wybrać plik, który będzie na blogu, wejść w setting, automatic page
 
 linki
 http://dabblet.com/
+
 ustalanie koloru:
 color: #klm;
 k-
@@ -47,5 +48,16 @@ l-
 m-
 
 font-size: 21px;   lub font-size: 2em;
+
+przesuwanie textu
+
+padding: dół góra prawo lewo
+
+padding: 20px 0px 0px 50px
+
+padding-left: 10px;
+padding: 20px, auto 0px auto;
+h3 {padding 20px auot 0px auto;}    dotyczy nagłowka 3
+
 * color: red;
 * background-color: 

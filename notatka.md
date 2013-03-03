@@ -29,7 +29,9 @@ www.az.pl
 
 
 ##Edytor tekstu
+
 ###Kurs Sublime Text
+
 * Strona http://www.sublimetext.com/
 * Ściągamy plik na odpowiedni system (w moim przypadku inux 32 bit)
  
@@ -40,7 +42,7 @@ Na git wybrać plik, który będzie na blogu, wejść w setting, automatic page
 
 ##CSS3
 
-Ważne: poczytać o css
+__Ważne: poczytać o css:__
 
 linki
 http://dabblet.com/

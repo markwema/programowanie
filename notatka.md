@@ -2,4 +2,5 @@
 
 ##Zmiany na github
 
-1. W repo ustaiamy SSH
+1. W repo ustaiamy na SSH
+2. 

@@ -30,3 +30,5 @@ www.az.pl
 ###Kurs Sublime Text
 * Strona http://www.sublimetext.com/
 * Ściągamy plik na odpowiedni system (Linux 32 bit)
+ ##Zakładanie bloga
+Na git wybrać plik, który będzie na blogu, wejść w setting, automatic page

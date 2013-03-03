@@ -67,7 +67,7 @@ h3 {padding 20px auot 0px auto;}    dotyczy nagłowka 3
 
 ##Trello
 
-Aplikacja do pracy grupowej
+__Aplikacja do pracy grupowej__
 
 trello.com
 

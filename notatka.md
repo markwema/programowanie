@@ -29,7 +29,7 @@ www.az.pl
 ##Edytor tekstu
 ###Kurs Sublime Text
 * Strona http://www.sublimetext.com/
-* Ściągamy plik na odpowiedni system (Linux 32 bit)
+* Ściągamy plik na odpowiedni system (w moim przypadku inux 32 bit)
  
 ##Zakładanie bloga
 

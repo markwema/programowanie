@@ -38,6 +38,8 @@ Na git wybrać plik, który będzie na blogu, wejść w setting, automatic page
 
 ##CSS3
 
+Ważne: poczytać o css
+
 linki
 http://dabblet.com/
 
@@ -61,3 +63,6 @@ h3 {padding 20px auot 0px auto;}    dotyczy nagłowka 3
 
 * color: red;
 * background-color: 
+* 
+
+

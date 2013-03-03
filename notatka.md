@@ -1,6 +1,6 @@
 # Zajęcia z technologii internetowych z dnia 3 marca 2013
 
-##Zmiany na github
+
 
 ##Literaura http://git-scm.com/book/pl
 Pożyteczne linki
@@ -14,6 +14,8 @@ http://stallone999.github.com/pspiti/
 ##Domeny za darmo
 www.az.pl
 
+
+##Zmiany na __github__
 
 1. W repo ustaiamy na SSH
 2. Jeśli nie, to należy wygenerować klucz publiczny ssh przez polecenie z konsoli na swoim kompie ssh-keygen

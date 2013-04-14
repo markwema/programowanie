@@ -1,8 +1,10 @@
 #Zajęcia z dnia 2.03.2013
 ```c
+
 int main() {
   printf(("Witaj świecie\n";
 }
+
 ```
 
 Program obliczajacy pole o obwod kola
@@ -20,7 +22,7 @@ int main(){
  getchar();/* enter ze scanf() w buforze */
  getchar();
  return 0;
-}   
+}
 ```
 
 Przeliczanie tamperatury Fahrenheita->Celsius

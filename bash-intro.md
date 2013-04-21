@@ -5,3 +5,6 @@
 
 [programowanie](http://dief.republika.pl/dialog1.html)
 
+[intro](http://www.itlublin.pl/book/export/html/129)
+
+

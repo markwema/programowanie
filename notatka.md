@@ -28,6 +28,8 @@ Trochę stron o git -prostych
 
 [git-scm](http://git-scm.com/book/pl/Podstawy-Gita-Rejestrowanie-zmian-w-repozytorium)
 
+[slajdy](http://www.slideshare.net/phpprog/git-rozproszony-system-kontroli-wersji-4309501)
+
 
 ##Domeny za darmo
 www.az.pl

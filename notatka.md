@@ -6,11 +6,12 @@
 [book](http://git-scm.com/book/pl)
 Pożyteczne linki
 
-http://tao.inf.ug.edu.pl/
+[tao](http://tao.inf.ug.edu.pl/)
 
-http://wbzyl.github.com/ppn/
+[w. bzyl](http://wbzyl.github.com/ppn/)
 
-http://stallone999.github.com/pspiti/
+[sylwek](http://stallone999.github.com/pspiti/)
+[book](http://helion.pl/ksiazki/git-rozproszony-system-kontroli-wersji-wlodzimierz-gajda,gitroz.htm)
 
 ## Opis github
 Trochę stron o git -prostych

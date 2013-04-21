@@ -11,6 +11,10 @@ http://wbzyl.github.com/ppn/
 
 http://stallone999.github.com/pspiti/
 
+## Opis github
+
+[po polsku](http://taat.pl/artykuly/git-po-polsku/)
+
 ##Domeny za darmo
 www.az.pl
 

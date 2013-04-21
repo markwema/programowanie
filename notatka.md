@@ -16,11 +16,17 @@ Pożyteczne linki
 ## Opis github
 Trochę stron o git -prostych
 [M. Socha](http://home.agh.edu.pl/~socha/pmwiki/pmwiki.php/Programowanie/Git)
+
 [webook](http://www.webook.pl/w-465,Git._Rozproszony_system_kontroli_wersji._Opis_polecen_i_konfiguracji_na_Windows..html)
+
 [prosto i krótko](http://middleofdreams.wordpress.com/2009/10/18/git-i-github-w-pare-minut/)
+
 [po polsku](http://taat.pl/artykuly/git-po-polsku/)
+
 [wiki](http://pl.wikibooks.org/wiki/Git)
+
 [git-scm](http://git-scm.com/book/pl/Podstawy-Gita-Rejestrowanie-zmian-w-repozytorium)
+
 
 ##Domeny za darmo
 www.az.pl

@@ -15,6 +15,7 @@ Pożyteczne linki
 
 ## Opis github
 Trochę stron o git -prostych
+
 [M. Socha](http://home.agh.edu.pl/~socha/pmwiki/pmwiki.php/Programowanie/Git)
 
 [webook](http://www.webook.pl/w-465,Git._Rozproszony_system_kontroli_wersji._Opis_polecen_i_konfiguracji_na_Windows..html)

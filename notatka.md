@@ -2,7 +2,8 @@
 
 
 
-##Literaura http://git-scm.com/book/pl
+##Literaura 
+[book](http://git-scm.com/book/pl)
 Pożyteczne linki
 
 http://tao.inf.ug.edu.pl/
@@ -13,7 +14,10 @@ http://stallone999.github.com/pspiti/
 
 ## Opis github
 
+[prosto i krótko](http://middleofdreams.wordpress.com/2009/10/18/git-i-github-w-pare-minut/)
 [po polsku](http://taat.pl/artykuly/git-po-polsku/)
+[wiki](http://pl.wikibooks.org/wiki/Git)
+[git-scm](http://git-scm.com/book/pl/Podstawy-Gita-Rejestrowanie-zmian-w-repozytorium)
 
 ##Domeny za darmo
 www.az.pl

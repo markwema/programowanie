@@ -72,6 +72,11 @@ h3 {padding 20px auot 0px auto;}    dotyczy nagłowka 3
 ##Trello
 
 __Aplikacja do pracy grupowej__
+### Dobry wstęp
+[patrz](http://antyweb.pl/trello-%E2%80%93-proste-narzedzie-do-organizacji-pracy-ktore-warto-wyprobowac/)
+oraz
+[polski](https://trello.com/board/tablica-powitalna/5146c769e04c31981d000f7e)
+
 Trello to nic innego, jak rozbudowana wirtualna tablica, na której możemy przyklejać listy z nowymi zadaniami. 
 Pod każdą listą możemy dodawać karty, w których określamy w dowolny sposób zadania i przypisujemy do nich kolejnych 
 użytkowników. Karty te oferują proste funkcje, jak określenie tematu i jego opis, możemy też dodawać zadania, 

@@ -242,3 +242,5 @@ a napis
 &x
 ```
 wyłuskuje adres zmiennej **x**
+Wskaźniki mogą być do typów: **int, double, char**
+oraz do funkcji itd

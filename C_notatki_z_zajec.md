@@ -225,3 +225,11 @@ int main(){
          getchar();        
 }
 ```
+## Wskaźniki
+### Przykłady
+deklaracja
+```c
+int *x;
+```
+mówi, że x jest adresem (wskaźnikiem) do zminnej typu int;
+

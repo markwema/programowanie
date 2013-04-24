@@ -232,4 +232,13 @@ deklaracja
 int *x;
 ```
 mówi, że x jest adresem (wskaźnikiem) do zminnej typu int;
-
+Wywołanie
+```c
+*x;
+```
+wywołuje zawrtość komórki pamięci na którą wskazuje **x**,
+a napis
+```c
+&x
+```
+wyłuskuje adres zmiennej **x**

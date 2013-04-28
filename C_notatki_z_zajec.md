@@ -254,4 +254,27 @@ to znaczy, że nie możemy normalnie zmienić wartości zewnętrznych dla funkcj
 w C argumenty są przekazywane przez wartość, czyli wewnątrz funkcji operujemy tylko na ich kopiach.
 Możliwe jest modyfikowanie zmiennych przekazywanych do funkcji jako parametry - ale do tego w C potrzebne są
 wskaźniki.
+### Wskaźniki na funkcje
+Szczególnym rodzajem wskaźnika jest wskaźnik na funkcję, który w uproszczeniu
+można traktować jak adres początku tej funkcji. Równocześnie sama nazwa funkcji
+ma wartość adresu początku kodu stanowiącego obraz tej funkcji w pamięci.
+Wywołanie pewnej funkcji poprzez wskaźnik p na tę funkcję można dokonać
+używając wyrażenia:
+```c
+( *p ) ( lista_argumentów )
+void (*p1)();
+ //Wskaznik na funkcje bez
+//argumentow i nie zwracajaca
+//wartosci
+int (*p2)(int,char);
+ //Wskaznik na funkcje o argumentach
+//int i char, zwracajaca int
+int *(*p3)(int);
+ //Wskaznik na funkcje o argumencie
+//int, zwracajaca wskaznik na int
+double (*(*p4)(int))(char); //Wskaznik na funkcje o argumencie
+//int, zwracajaca wskaznik na
+//funkcje o argumencie char, ktora
+//zwraca double
 
+```

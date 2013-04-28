@@ -293,4 +293,20 @@ int tab[6]={11,22,33,44,55,66};
 int (*p)[6]=&tab;
  //p jest wskaznikiem na tablice int[6]
 ```
+W języku C można bezpośrednio zadeklarować jedynie tablicę jednowymiarową.
+Posługiwanie się tablicami dwuwymiarowymi lub o większej liczbie wymiarów
+wymaga operowania tablicami tablic.
+
+__Tablica tablic:__ Zapis int tab[12][40]; definiuje 12 elementową tablicę 40
+elementowych tablic typu int. Wyrażenie tab[k] jest typu int*, ponieważ jest
+nazwą k-tej tablicy 40 elementów typu int i ma wartość wskaźnika na początkowy
+jej element.
+__Wskaźnik na tablicę:__ Wyrażenie tab jest nazwą tablicy 12 elementowej i ma
+wartość wskaźnika na jej początkowy element, którym jest tablica 40 elementowa.
+Typem tab jest wskaźnik na 40 elementową tablicę wartości całkowitych, czyli
+int(*)[40].
+__Tablica wskaźników:__ Zapis char *ptr[60]; przedstawia definicją 60
+elementowej tablicy wskaźników na wartości typu char. Ponieważ ptr jako nazwa
+tablicy jest równocześnie wskaźnikiem na jej początkowy element, więc typem ptr
+jest char**, czyli wskaźnik na wskaźnik na char.
 

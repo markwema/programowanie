@@ -244,3 +244,14 @@ a napis
 wyłuskuje adres zmiennej **x**
 Wskaźniki mogą być do typów: **int, double, char**
 oraz do funkcji itd
+
+# Funkcje
+
+### Przekazywanie parametrów
+
+Gdy wywołujemy funkcję, wartość argumentów, z którymi ją wywołujemy, jest kopiowana do funkcji. Kopiowana -
+to znaczy, że nie możemy normalnie zmienić wartości zewnętrznych dla funkcji zmiennych. Formalnie mówi się, że
+w C argumenty są przekazywane przez wartość, czyli wewnątrz funkcji operujemy tylko na ich kopiach.
+Możliwe jest modyfikowanie zmiennych przekazywanych do funkcji jako parametry - ale do tego w C potrzebne są
+wskaźniki.
+

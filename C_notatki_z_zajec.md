@@ -278,3 +278,6 @@ double (*(*p4)(int))(char); //Wskaznik na funkcje o argumencie
 //zwraca double
 
 ```
+_Uwaga:_ Operacje na wskaźnikach na funkcje podlegają dodatkowemu ograniczeniu:
+Na wskaźnikach na funkcje nie można wykonywać operacji arytmetycznych.
+

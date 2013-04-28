@@ -278,6 +278,12 @@ double (*(*p4)(int))(char); //Wskaznik na funkcje o argumencie
 //zwraca double
 
 ```
-_Uwaga:_ Operacje na wskaźnikach na funkcje podlegają dodatkowemu ograniczeniu:
+__Uwaga:__ Operacje na wskaźnikach na funkcje podlegają dodatkowemu ograniczeniu:
 Na wskaźnikach na funkcje nie można wykonywać operacji arytmetycznych.
 
+### Wskaźniki na tablice i tablice wskaźników
+Wskaźnik na tablicę należy odróżniać od wskaźnika na początkowy element tej
+tablicy. Podstawową zasadą, którą należy zawsze stosować, jest reguła działania
+operatora wyłuskania:
+Zastosowanie operatora wyłuskania do wskaźnika na pewien
+obiekt daje w rezultacie ten obiekt.

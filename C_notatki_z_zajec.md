@@ -287,3 +287,10 @@ tablicy. Podstawową zasadą, którą należy zawsze stosować, jest reguła dzi
 operatora wyłuskania:
 Zastosowanie operatora wyłuskania do wskaźnika na pewien
 obiekt daje w rezultacie ten obiekt.
+__Wskaźnik na tablicę:__
+```c
+int tab[6]={11,22,33,44,55,66};
+int (*p)[6]=&tab;
+ //p jest wskaznikiem na tablice int[6]
+```
+

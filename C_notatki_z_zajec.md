@@ -317,6 +317,21 @@ jest char**, czyli wskaźnik na wskaźnik na char.
 Przy przekazywaniu do funkcji tablicy dwuwymiarowej musimy koniecznie podać liczbę kolumn. W wywołaniu funkcji
 podajemy natomiast tylko nazwę tablicy. Zatem przekazujemy do funkcji adres tablicy więc wszystkie zmiany w funkcji 
 będą uwzględnione po wyjściu z niej.
+
 __Przykład:__ 
-
-
+```c
+void fun(int macierz[][M])
+lub
+void fun(int macierz[N][M])
+{
+...
+}
+int main()
+{
+int macierz[N][M];
+...
+fun(macierz);
+- wywołanie funkcji.
+...
+}
+```

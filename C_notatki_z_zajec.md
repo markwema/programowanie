@@ -358,3 +358,8 @@ p2=fun(p1);
 ...
 }
 ```
+## Pliki --tworzenie i otwieranie
+W języku C plik jest tworzony lub otwierany przy użyciu funkcji __fopen__
+(istnieje też funkcja open do tzw. operacji niskopoziomowych). Po zakończeniu operacji na pliku, 
+plik jest zamykany przy użyciu funkcji __fclose__. Zamknięcie pliku powoduje zarejestrowanie zmian dokonanych
+w pliku w trakcie jego przetwarzania.

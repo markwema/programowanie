@@ -335,3 +335,26 @@ fun(macierz);
 ...
 }
 ```
+## Struktury
+
+Struktury przekazywane są do funkcji tak jak każde inne zmienne podstawowych typów, czyli przez wartość. 
+
+__Przykład:__
+```c
+struct punkt
+{
+int x,y;
+};
+struct punkt fun(struct punkt p1)
+{
+...
+}
+int main()
+{
+struct punkt p1,p2;
+...
+p2=fun(p1);
+- wywołanie funkcji.
+...
+}
+```

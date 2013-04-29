@@ -363,3 +363,12 @@ W języku C plik jest tworzony lub otwierany przy użyciu funkcji __fopen__
 (istnieje też funkcja open do tzw. operacji niskopoziomowych). Po zakończeniu operacji na pliku, 
 plik jest zamykany przy użyciu funkcji __fclose__. Zamknięcie pliku powoduje zarejestrowanie zmian dokonanych
 w pliku w trakcie jego przetwarzania.
+
+### Funkcja fopen i parametry otwarcia pliku 
+
+FILE * fopen( const char*nazwa_pliku, const char *t
+ryb);
+__Funkcja fopen posiada dwa parametry__
+
+Pierwszy parametr nazwa_pliku jest tablicą znakową określającą nazwę pliku, drugi parametr tryb też będący 
+tablicą znaków, określa tzw. tryb utworzenia lub otwarcia pliku. 

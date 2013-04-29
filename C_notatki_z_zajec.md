@@ -372,3 +372,14 @@ __Funkcja fopen posiada dwa parametry__
 
 Pierwszy parametr nazwa_pliku jest tablicą znakową określającą nazwę pliku, drugi parametr tryb też będący 
 tablicą znaków, określa tzw. tryb utworzenia lub otwarcia pliku. 
+
+__Przykład__
+.
+Tworzenie i otwieranie nowego pliku.
+```c
+FILE *fp;
+fp=fopen("Plik1.dat","w");
+```
+
+Funkcja fopen zwraca wskaźnik do pliku, jeśli jego otwarcie lub utworzenie było możliwe. Jeżeli nie było to
+możliwe, funkcja fopen zwraca zerowy wskaźnik NULL. 

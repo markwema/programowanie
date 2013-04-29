@@ -312,3 +312,11 @@ elementowej tablicy wskaźników na wartości typu char. Ponieważ ptr jako nazw
 tablicy jest równocześnie wskaźnikiem na jej początkowy element, więc typem ptr
 jest char**, czyli wskaźnik na wskaźnik na char.
 
+##Tablica dwuwymiarowa (macierz).
+
+Przy przekazywaniu do funkcji tablicy dwuwymiarowej musimy koniecznie podać liczbę kolumn. W wywołaniu funkcji
+podajemy natomiast tylko nazwę tablicy. Zatem przekazujemy do funkcji adres tablicy więc wszystkie zmiany w funkcji 
+będą uwzględnione po wyjściu z niej.
+__Przykład:__ 
+
+
